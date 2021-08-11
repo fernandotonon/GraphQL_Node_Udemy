@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "Zé",
+      "age": 50,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Joe",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "firstName": "teste",
+      "age": 19,
+      "id": "EhZhODS"
+    },
+    {
+      "firstName": "teste",
+      "age": 19,
+      "id": "MFZk-JI"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "ACME",
+      "description": "ACME Inc. is a company"
+    },
+    {
+      "id": "2",
+      "name": "ABCD",
+      "description": "ABCD Inc. is a company"
+    }
+  ]
+}
